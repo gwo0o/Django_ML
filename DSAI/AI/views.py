@@ -23,3 +23,6 @@ def from_leo():
 
 def from_Libero():
     return None
+
+def from_leo2():
+    return None
