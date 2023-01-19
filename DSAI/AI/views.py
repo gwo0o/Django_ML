@@ -17,3 +17,6 @@ def getTestData(request):
     datas = Post.objects.all()
     serializers = DataSerializer(datas, many=True)
     return Response(serializers.data);
+
+def from_leo():
+    return None
