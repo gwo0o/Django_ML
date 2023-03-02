@@ -10,5 +10,5 @@
     pip install tensorflow
     pip install customized_konlpy
     pip install gensim
-    pip install mysqlclient
+    pip install mysql-connector-python
     pip install -U scikit-learn
